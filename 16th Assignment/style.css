@@ -1,0 +1,27 @@
+
+label{
+    width: 60px;
+    display: inline-block;
+}
+.header{
+    text-align: center;
+}
+
+.container{
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    padding-left: 100px;
+    font-size: medium;
+}
+.container2{
+    padding-left: 100px;
+    margin: 10px;
+}
+.row{
+    padding-left: 300px;
+display: inline-block;
+}
